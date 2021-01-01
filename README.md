@@ -1,2 +1,2 @@
 # structure
-https://mybinder.org/v2/gh/boomorangutango/structure/main?urlpath=voila%2Frender%2Fslab_creep_factor_2.ipynb
+https://mybinder.org/v2/gh/boomorangutango/structure/main?urlpath=voila%2Frender%2Fcreep_factor_2.ipynb
