@@ -1,6 +1,6 @@
 # structure
 
-This is a test repository to look at deployment options for structural engineering applications.
+This is a test repository to look at deployment options for structural engineering applications written with Python. We are currently exploring voila and streamlit.
 
 ## Creep Factor
 
